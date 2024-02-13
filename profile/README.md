@@ -5,7 +5,7 @@
 
 - 🔭 We currently working on [SocialTask](https://github.com/SocialTask/SocialTask)
 
-- 📫 How to reach we **@SocialTask** on Twitter
+- 📫 How to reach we **@AppSocialTask** on Twitter
 
 <h3 align="center">Connect with our:</h3>
 <p align="center">
