@@ -9,7 +9,7 @@
 
 <h3 align="center">Connect with our:</h3>
 <p align="center">
-<a href="https://twitter.com/AppSocialTask" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="socialtask" height="60" width="70" /></a>
+<a href="https://twitter.com/AppSocialTask" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AppSocialTask" height="60" width="70" /></a>
 <a href="https://discord.gg/qzwC7P65pg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qzwC7P65pg" height="60" width="70" /></a>
 </p>
 
